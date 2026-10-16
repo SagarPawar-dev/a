@@ -1,12 +1,4 @@
-/*
-NAME : RAJESHWAR JAYESH SHAH
-ROLL NO : CEA142
-BATCH : A2
-DIV : A
-CLASS : COA LAB
-EXPERIMENT NUMBER : 04
-EXPERIMENT TITLE : IEEE 754 REPRESENTAION
-*/ 
+
 #include <iostream>
 #include <string>
 using namespace std;
